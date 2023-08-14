@@ -16,7 +16,7 @@ hands = mpHands.Hands(
     min_tracking_confidence=0.75,
     max_num_hands=2
 )
-
+# Enter the Paths As Shown below, it should look like subprocess.run(["powershell", "-ExecutionPolicy", "Bypass", "-File", "H:\ML_HAND_DETECTION\increase.ps1"]).
 def set_brightness_inc():
     subprocess.run(["powershell", "-ExecutionPolicy", "Bypass", "-File", "Absolute Path of Increase.ps1"])
 
