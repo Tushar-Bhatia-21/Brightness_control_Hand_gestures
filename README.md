@@ -25,9 +25,9 @@ git clone https://github.com/Tushar-Bhatia-21/Brightness_control_Hand_gestures.g
 ``` 
 # Usage
 1. Open your favourite IDE, such as Vscode and open the _**main.py**_ file in your IDE.
-2. If you have installed all the packages correctly, just click on **Run**.
+2. Make sure to enter the absolute path of the scripts as given in _**main.py**_.
 3. If you wish to edit out the rate of increment or decrement, the _.ps1_ scripts can be edited.
-4. Make sure to use either the absolute path or place the scripts in the same directory.
+4. If you have completed all the above steps correctly, just click on **Run**.
 
 # Instructions
 The Right hand is used to increase the brightness, and the left hand is used to decrease the brightness. Just hover the hand in front of your camera to see the magic.
